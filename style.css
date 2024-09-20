@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+#productcats{
+    height: 100vh;
+    background-color: blue;
+    overflow: auto;
+}
+#products{
+    height: 100vh;
+    background-color: rgb(255, 0, 0);
+}
